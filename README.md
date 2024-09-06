@@ -28,12 +28,8 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 #### Тестовая документация:
 <div>
    <a href="https://www.atlassian.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira"/>
-    </a>
-    <a href="https://miro.com/" target="_blank">
-      <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" width="40" height="40" alt="miro" />
-    </a>
-    <a href="https://miro.com" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira"/></a>
+      <a href="https://miro.com" target="_blank">
       <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" title="miro" alt="miro" width="40" height="40"/></a>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
