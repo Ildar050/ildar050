@@ -28,7 +28,10 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 #### Тестовая документация:
 <div>
    <a href="https://www.atlassian.com" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" alt="jira"/>
+    </a>
+    <a href="https://miro.com/" target="_blank">
+      <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" width="40" height="40" alt="miro" />
     </a>
     <a href="https://miro.com/" target="_blank">
       <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" width="40" height="40" alt="miro"/>
