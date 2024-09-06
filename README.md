@@ -30,18 +30,25 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
    <a href="https://www.atlassian.com" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira"  width="40" height="40"/></a>
       <a href="https://miro.com" target="_blank">
-      <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" title="Miro" alt="Miro" width="40" height="40"/></a>      
+      <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" title="Miro" alt="Miro" width="40" height="40"/></a>
+      <a href="https://www.jetbrains.com/youtrack" target="_blank">      
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="Youtrack" alt="Youtrack" width="40" height="40"/></a>
+      <a href="https://www.figma.com" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>
     </div>
 
 #### Тестирование приложений:
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
+  <a href="https://www.postman.com" target="_blank">
   <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="Postman" width="40" height="40"/></a>
+  <a href="https://developer.android.com/studio" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android-studio" alt="Android-studio" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/xcode" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/></a>
+  <a href="https://www.charlesproxy.com" target="_blank">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles-proxy" alt="Charles-proxy" width="40" height="40"/></a>
+  <a href="https://www.telerik.com/fiddler-b" target="_blank">
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40" height="40"/></a>
   </div>
 
