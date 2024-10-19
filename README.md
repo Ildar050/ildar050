@@ -84,7 +84,7 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 
 - [Тестирование веб-приложений](https://github.com/Ildar050/Yandex_Marshruty)
 - [Тестирование мобильных приложений](https://github.com/Ildar050/Yandex_Metro)
-- [Тестирование API]((https://github.com/Ildar050/Yandex_Prilavok))
+- [Тестирование API](https://github.com/Ildar050/Yandex_Prilavok)
 - [Запросы SQL](https://)
 
 ---
