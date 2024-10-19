@@ -91,3 +91,6 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 
 ### Сертификаты
 - [Software testing from scratch. Theory + Practice.](https://drive.google.com/file/d/1GNCYBvYWzh-kZywnQHQcNLJfGKRmSU8u/view?usp=drive_link)
+
+---
+![](https://komarev.com/ghpvc/?username=Ildar050&color=grey)
