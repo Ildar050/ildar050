@@ -56,8 +56,8 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 <div>
   <a href="https://www.mysql.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL"/></a>
    </div>
 
 #### Работа с кодом:
@@ -85,7 +85,7 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 - [Тестирование веб-приложений](https://github.com/Ildar050/Yandex_Marshruty)
 - [Тестирование мобильных приложений](https://github.com/Ildar050/Yandex_Metro)
 - [Тестирование API](https://github.com/Ildar050/Yandex_Prilavok)
-- [Запросы SQL](https://)
+- [Проект Яндекс.Самокат](https://github.com/Ildar050/Yandex_scooter)
 
 ---
 
