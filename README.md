@@ -92,6 +92,6 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 ### Сертификаты
 - [Certificate of Completion of the "QA Engineer" Professional Training Course.](https://drive.google.com/file/d/1_DyLgcrmmhTxDlNHPCdIwujBOHVE3Wqo/view?usp=sharing)
 - [Software testing from scratch. Theory + Practice.](https://drive.google.com/file/d/1GNCYBvYWzh-kZywnQHQcNLJfGKRmSU8u/view?usp=drive_link)
-- [SQL Basics.](https:https://drive.google.com/file/d/1PlPW5xg9ihyAp4eaP5q_7nPfoep0jWLm/view?usp=sharing)
+- [SQL Basics.](https://drive.google.com/file/d/1PlPW5xg9ihyAp4eaP5q_7nPfoep0jWLm/view?usp=sharing)
 ---
 ![](https://komarev.com/ghpvc/?username=Ildar050&color=grey)
