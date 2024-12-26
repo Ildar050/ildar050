@@ -14,7 +14,7 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 
 
 
-- Мое резюме: [Iusupov_QA_Engineer_CV](https://drive.google.com/file/d/1rR70MnmRqfGNoTLQbk8FrkNx9qS6VMqE/view?usp=sharing)
+- Мое резюме: [Iusupov_QA_Engineer_CV](https://drive.google.com/file/d/1fTwsBzST6gxk089YTH-Ur2jvF1dyND-m/view?usp=sharing)
 -  Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@ild050-white?style=flat&logo=telegram&logoColor=blue)](https://t.me/ild050) [![LinkedIn Badge](https://img.shields.io/badge/-@ildariusupov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ildar-iusupov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:jonjones0506@gmail.com)
 
 
@@ -91,6 +91,7 @@ I am a QA Engineer ready to develop soft and hard skills. My goal is to become a
 
 ### Сертификаты
 - [Software testing from scratch. Theory + Practice.](https://drive.google.com/file/d/1GNCYBvYWzh-kZywnQHQcNLJfGKRmSU8u/view?usp=drive_link)
-
+- [Certificate of Completion of the "QA Engineer" Professional Training Course.](https://drive.google.com/file/d/1_DyLgcrmmhTxDlNHPCdIwujBOHVE3Wqo/view?usp=sharing)
+- [SQL Basics.](https:https://drive.google.com/file/d/1PlPW5xg9ihyAp4eaP5q_7nPfoep0jWLm/view?usp=sharing)
 ---
 ![](https://komarev.com/ghpvc/?username=Ildar050&color=grey)
